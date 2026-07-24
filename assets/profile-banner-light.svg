@@ -1,19 +1,37 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">陈靖耀 · JINGYAO CHEN</title>
-  <desc id="desc">Large Language Models, Multi-Agent Systems, and Scientific Knowledge Services</desc>
+  <title id="title">Jingyao Chen — research signals</title>
+  <desc id="desc">An animated research network for language models, multi-agent systems, and scientific knowledge services.</desc>
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#158A9A" stop-opacity=".2"/>
+      <stop offset=".45" stop-color="#158A9A"/>
+      <stop offset="1" stop-color="#D86A1F"/>
+      <animate attributeName="x1" values="-1;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
   <rect width="1200" height="360" fill="#F6F8FA"/>
   <path d="M0 55H1200M0 305H1200" stroke="#158A9A" stroke-opacity=".7"/>
   <path d="M64 0V360M1136 0V360" stroke="#0B1520" stroke-opacity=".13"/>
   <path d="M0 120H1200M0 240H1200" stroke="#0B1520" stroke-opacity=".07"/>
-  <g stroke="#158A9A" stroke-opacity=".9">
-    <path d="M755 234C797 234 808 111 852 111C893 111 892 255 934 255C978 255 983 159 1023 159C1061 159 1061 202 1104 202" stroke-width="2"/>
-    <path d="M725 272C766 272 782 163 820 163C856 163 859 294 899 294C938 294 950 215 986 215" stroke-opacity=".36"/>
-  </g>
+  <rect x="65" y="56" width="2" height="248" fill="#158A9A" opacity=".48">
+    <animate attributeName="x" values="65;1134;65" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.52;0" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M720 265C765 265 783 104 848 104C910 104 890 261 943 261C992 261 980 151 1030 151C1074 151 1071 205 1110 205" stroke="url(#signal)" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="10 9">
+    <animate attributeName="stroke-dashoffset" values="0;-152" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M733 297C774 297 792 165 828 165C866 165 864 289 906 289C946 289 951 218 987 218" stroke="#158A9A" stroke-opacity=".38" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="4 8">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="8s" repeatCount="indefinite"/>
+  </path>
   <g fill="#D86A1F">
-    <circle cx="755" cy="234" r="4"/><circle cx="852" cy="111" r="4"/><circle cx="934" cy="255" r="4"/>
-    <circle cx="1023" cy="159" r="4"/><circle cx="1104" cy="202" r="4"/>
+    <circle cx="720" cy="265" r="4"><animate attributeName="r" values="4;7;4" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="848" cy="104" r="4"><animate attributeName="r" values="4;8;4" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="943" cy="261" r="4"><animate attributeName="r" values="4;7;4" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="151" r="4"><animate attributeName="r" values="4;8;4" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="205" r="4"><animate attributeName="r" values="4;7;4" dur="3.6s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="84" y="91" fill="#158A9A" font-family="monospace" font-size="13" letter-spacing="3">FIELD NOTES / RESEARCH INDEX</text>
+  <text x="84" y="91" fill="#158A9A" font-family="monospace" font-size="13" letter-spacing="3">SIGNAL ONLINE / RESEARCH SYSTEMS</text>
   <text x="80" y="184" fill="#0B1520" font-family="Georgia, serif" font-size="61" font-weight="700" letter-spacing="-2">JINGYAO CHEN</text>
   <text x="84" y="220" fill="#0B1520" fill-opacity=".68" font-family="monospace" font-size="16" letter-spacing="3">INFORMATION SCIENCE · CAS</text>
   <path d="M84 254H220" stroke="#D86A1F" stroke-width="3"/>
