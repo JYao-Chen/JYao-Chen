@@ -1,0 +1,21 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">陈靖耀 · JINGYAO CHEN</title>
+  <desc id="desc">Large Language Models, Multi-Agent Systems, and Scientific Knowledge Services</desc>
+  <rect width="1200" height="360" fill="#F6F8FA"/>
+  <path d="M0 55H1200M0 305H1200" stroke="#158A9A" stroke-opacity=".7"/>
+  <path d="M64 0V360M1136 0V360" stroke="#0B1520" stroke-opacity=".13"/>
+  <path d="M0 120H1200M0 240H1200" stroke="#0B1520" stroke-opacity=".07"/>
+  <g stroke="#158A9A" stroke-opacity=".9">
+    <path d="M755 234C797 234 808 111 852 111C893 111 892 255 934 255C978 255 983 159 1023 159C1061 159 1061 202 1104 202" stroke-width="2"/>
+    <path d="M725 272C766 272 782 163 820 163C856 163 859 294 899 294C938 294 950 215 986 215" stroke-opacity=".36"/>
+  </g>
+  <g fill="#D86A1F">
+    <circle cx="755" cy="234" r="4"/><circle cx="852" cy="111" r="4"/><circle cx="934" cy="255" r="4"/>
+    <circle cx="1023" cy="159" r="4"/><circle cx="1104" cy="202" r="4"/>
+  </g>
+  <text x="84" y="91" fill="#158A9A" font-family="monospace" font-size="13" letter-spacing="3">FIELD NOTES / RESEARCH INDEX</text>
+  <text x="80" y="184" fill="#0B1520" font-family="Georgia, serif" font-size="61" font-weight="700" letter-spacing="-2">JINGYAO CHEN</text>
+  <text x="84" y="220" fill="#0B1520" fill-opacity=".68" font-family="monospace" font-size="16" letter-spacing="3">INFORMATION SCIENCE · CAS</text>
+  <path d="M84 254H220" stroke="#D86A1F" stroke-width="3"/>
+  <text x="84" y="291" fill="#0B1520" fill-opacity=".84" font-family="Georgia, serif" font-size="19">Language Models · Agents · Scientific Knowledge Services</text>
+</svg>

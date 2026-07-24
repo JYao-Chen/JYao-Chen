@@ -1,33 +1,80 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="陈靖耀 · JINGYAO CHEN — Large Language Models · Multi-Agent Systems · Scientific Knowledge Services" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" />
+  <img src="./assets/profile-banner-light.svg" alt="Jingyao Chen — Large Language Models, Multi-Agent Systems, Scientific Knowledge Services" width="100%" />
+</picture>
 
 <p align="center">
-  <a href="https://jyaochen.cn">Website</a>
+  <a href="https://jyaochen.cn">个人网站</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/JYao-Chen?tab=repositories">Repositories</a>
+  <a href="https://jyaochen.cn/posts">文章</a>
+  &nbsp;·&nbsp;
+  <a href="https://jyaochen.cn/photo">影像</a>
+  &nbsp;·&nbsp;
+  <a href="https://jyaochen.cn/reading">阅读</a>
 </p>
 
-## 一张索引卡
-
-我是陈靖耀，中国科学院文献情报中心情报学博士研究生。关注大语言模型、多智能体，以及人工智能如何参与科学知识服务。
-
-| 研究线索 | 正在关心 |
-| :-- | :-- |
-| **语言模型** | 模型能力与专业知识环境如何更可靠地连接 |
-| **多智能体** | 复杂研究任务中的分工、协同与可控编排 |
-| **知识服务** | 让检索、证据与推理更贴近真实研究过程 |
-
-## 研究之外
-
-历史、文学与传统文化是另一条长线。常从诗词、典故和思想史中辨认时代的纹理，也喜欢在博物馆、美术馆、古迹与城市的行走中，把文献、器物、建筑和日常重新连起来。
-
-> 知识不只需要被储存，也值得被重新看见、理解与使用。
-
-## 此处的代码
-
-置顶仓库会陆续收录研究中的工具、实验与可复用的资料。欢迎浏览、交流，或从 [个人网站](https://jyaochen.cn) 的文章与影像开始。
+<h3 align="center">陈靖耀 · 情报学博士研究生</h3>
 
 <p align="center">
-  <sub>Jingyao Chen · Research notes, tools, and field observations.</sub>
+  大语言模型 · 多智能体 · 人工智能驱动的科学知识服务
+</p>
+
+<br />
+
+> 我关心的不是让模型替人更快地产出答案，而是让它们在复杂的知识环境里，提供更可靠的协作、检索与判断。
+
+## 研究的三条线
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 / MODEL</sub><br /><br />
+      <strong>大语言模型</strong><br />
+      <sub>模型能力如何与专业知识环境建立可靠连接。</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / AGENT</sub><br /><br />
+      <strong>多智能体</strong><br />
+      <sub>复杂研究任务中的分工、协同与可控编排。</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / SERVICE</sub><br /><br />
+      <strong>科学知识服务</strong><br />
+      <sub>让检索、证据与推理更贴近真实的研究过程。</sub>
+    </td>
+  </tr>
+</table>
+
+## 最近写下的
+
+| 日期 | 文章 |
+| :-- | :-- |
+| 2026.07.22 | [汉传佛教讲什么（一）：从白马东来到人间佛教——中国佛教两千年](https://jyaochen.cn/posts/chinese-buddhism-history) |
+| 2026.07.16 | [少年英雄诗志：从曹植《白马篇》到王维《少年行》](https://jyaochen.cn/posts/young-heroes-in-poetry) |
+| 2026.07.13 | [游于不可救药的世界](https://jyaochen.cn/posts/zhuangzi-spiritual-world) |
+
+<p align="right"><a href="https://jyaochen.cn/posts">更多文章 ↗</a></p>
+
+## 书页与行走
+
+历史、文学与传统文化是另一条长线。常从诗词、典故和思想史中辨认时代的纹理；也喜欢在博物馆、美术馆、古迹与城市的行走中，把文献、器物、建筑和日常重新连起来。
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>常读</strong><br />
+      <sub>古典文学、历史著作、传统文化相关文本</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>常看</strong><br />
+      <sub>博物馆、美术馆、古迹与城市空间</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <sub>Research notes · tools · texts · field observations</sub>
 </p>
