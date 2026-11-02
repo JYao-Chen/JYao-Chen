@@ -12,6 +12,8 @@
   <a href="https://jyaochen.cn/photo">Visual archive</a>
   &nbsp;·&nbsp;
   <a href="https://jyaochen.cn/reading">Reading</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chenjingyao@mail.las.ac.cn">chenjingyao@mail.las.ac.cn</a>
 </p>
 
 <h3 align="center">Jingyao Chen · PhD Student in Information Science</h3>
@@ -106,6 +108,8 @@ History, literature, and traditional culture form another long thread. I read po
   <a href="https://jyaochen.cn/photo">影像</a>
   &nbsp;·&nbsp;
   <a href="https://jyaochen.cn/reading">阅读</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chenjingyao@mail.las.ac.cn">chenjingyao@mail.las.ac.cn</a>
 </p>
 
 </details>
